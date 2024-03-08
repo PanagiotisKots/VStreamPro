@@ -36,4 +36,4 @@ Requirements:
 - youtubesearchpython library
 
 Note:
-Ensure you have the necessary dependencies installed before running the program. You can install the required libraries using pip:
+Ensure you have the necessary dependencies installed before running the program. You can install the required libraries using pip3 install "libname"
