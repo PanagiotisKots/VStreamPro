@@ -243,3 +243,19 @@ Feel free to explore these technologies and tools to understand how **VStreamPro
 
 
 
+
+## Technologies and Tools
+
+![Python](https://skillicons.dev/icons?i=python)
+![Tkinter](https://skillicons.dev/icons?i=tkinter)
+![YouTube](https://skillicons.dev/icons?i=youtube)
+![youtube-dl](https://skillicons.dev/icons?i=youtubedl)
+![MP4](https://skillicons.dev/icons?i=mp4)
+![MKV](https://skillicons.dev/icons?i=mkv)
+![Pip](https://skillicons.dev/icons?i=pip)
+![Git](https://skillicons.dev/icons?i=git)
+![Windows](https://skillicons.dev/icons?i=windows)
+![macOS](https://skillicons.dev/icons?i=macos)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+
