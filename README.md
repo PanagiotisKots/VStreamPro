@@ -269,16 +269,22 @@ Feel free to explore these technologies and tools to understand how **VStreamPro
 
 We welcome contributions to VStreamPro! Your feedback, bug reports, and feature suggestions help us improve the project. Here’s how you can contribute:
 
-### How to Contribute
-1. **Fork the Repository**: Create a personal copy of the repository on GitHub.
-2. **Make Changes**: Implement your changes and test thoroughly.
-3. **Submit a Pull Request**: Provide a clear description of your changes and submit a pull request for review.
+| **Step**                   | **Description**                                                          |
+|----------------------------|--------------------------------------------------------------------------|
+| **Fork the Repository**    | Create a personal copy of the repository on GitHub.                       |
+| **Make Changes**           | Implement your changes and test thoroughly.                               |
+| **Submit a Pull Request**  | Provide a clear description of your changes and submit a pull request for review. |
 
 ### Contribution Guidelines
-- **Follow the Coding Standards**: Ensure your code adheres to the project's coding standards.
-- **Write Clear Commit Messages**: Provide meaningful commit messages that explain the changes made.
-- **Test Your Changes**: Thoroughly test your modifications before submitting a pull request.
-- **Respect the Project’s License**: Make sure your contributions comply with the project's licensing terms.
+
+| **Guideline**              | **Description**                                                          |
+|----------------------------|--------------------------------------------------------------------------|
+| **Follow the Coding Standards** | Ensure your code adheres to the project's coding standards.              |
+| **Write Clear Commit Messages** | Provide meaningful commit messages that explain the changes made.       |
+| **Test Your Changes**      | Thoroughly test your modifications before submitting a pull request.     |
+| **Respect the Project’s License** | Make sure your contributions comply with the project's licensing terms. |
+
+
 
 ### Icons
 ![GitHub](https://skillicons.dev/icons?i=github)
