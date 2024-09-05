@@ -33,14 +33,10 @@ Feel free to reach out for inquiries, feedback, or collaboration opportunities!
 
 # ![Apollo Icon](https://skillicons.dev/icons?i=vue) Version
 
-**0.0.0.1**
+## <i>**0.0.0.1**</i>
 
 - **Release Date**: September 5, 2024
-- **Changelog**:
-  - **0.0.0.1**: Initial release with core functionality for downloading YouTube videos.
-    - Basic support for downloading videos in high resolution.
-    - Command-line interface for specifying video URLs and output paths.
-    - Preliminary error handling and user feedback.
+
 
 
 
@@ -49,7 +45,7 @@ Feel free to reach out for inquiries, feedback, or collaboration opportunities!
 | **Feature**                | **Description**                                               |
 |----------------------------|---------------------------------------------------------------|
 | **High-Quality Downloads** | Download videos in the highest available resolution.         |
-| **User-Friendly Interface**| Easy-to-use command-line interface for quick setup and operation. |
+| **User-Friendly Interface**| Easy-to-use gui interface for quick setup and operation. |
 | **Flexible Formats**       | Save videos in various formats such as MP4, MKV, etc.         |
 | **Cross-Platform Compatibility** | Compatible with Windows, macOS, and Linux.                  |
 | **Automatic Updates**      | Regular updates to adapt to changes in YouTube’s infrastructure. |
