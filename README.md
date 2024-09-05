@@ -117,6 +117,44 @@
 <br><br><br>
 
 
+## Technologies and Components
+
+**VStreamPro** employs a variety of technologies and tools tailored for YouTube video downloading. Here’s an overview of the key components used in the project:
+
+### Core Technologies
+
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) **Python**: The main programming language for VStreamPro, used for writing the core functionality and logic of the application.
+- ![Tkinter](https://img.shields.io/badge/Tkinter-8.6-blue.svg) **Tkinter**: The GUI toolkit used to build the desktop application's interface.
+
+### Video Downloading
+
+- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) **YouTube**: The primary platform from which videos are downloaded.
+- ![YouTube-DL](https://img.shields.io/badge/youtube--dl-%23FF0000.svg?style=for-the-badge&logo=youtube-dl&logoColor=white) **youtube-dl**: A command-line tool for downloading videos from YouTube and other sites. VStreamPro leverages this tool for its video downloading capabilities.
+
+### File Formats and Handling
+
+- ![MP4](https://img.shields.io/badge/mp4-%2300A3E0.svg?style=for-the-badge&logo=mp4&logoColor=white) **MP4**: A common video format supported by VStreamPro for saving downloaded videos.
+- ![MKV](https://img.shields.io/badge/mkv-%23F8D800.svg?style=for-the-badge&logo=mkv&logoColor=black) **MKV**: Another video format option available for downloads.
+
+### Additional Tools
+
+- ![Pip](https://img.shields.io/badge/pip-%23324F92.svg?style=for-the-badge&logo=pypi&logoColor=white) **Pip**: Python’s package installer used to manage dependencies and packages required for VStreamPro.
+- ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) **Git**: Version control system used for managing the source code and collaborating on the VStreamPro project.
+
+### Operating Systems
+
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) **Windows**: One of the operating systems supported by VStreamPro.
+- ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) **macOS**: Another operating system where VStreamPro can be used.
+- ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) **Linux**: Supports various distributions like Ubuntu and Fedora for running VStreamPro.
+
+### Development and Deployment
+
+- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) **Docker**: Used for creating isolated environments for development and deployment.
+- ![Virtualenv](https://img.shields.io/badge/virtualenv-%234B6A8D.svg?style=for-the-badge&logo=python&logoColor=white) **Virtualenv**: Python tool for creating isolated environments to manage dependencies.
+
+Feel free to explore these technologies and tools to understand how **VStreamPro** leverages them to deliver a powerful video downloading solution.
+
+<br><br><br>
 
 ## 💡 Features
 
@@ -244,45 +282,7 @@ We welcome contributions to VStreamPro! Your feedback, bug reports, and feature 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 
-<br><br><br>
 
-
-## Technologies and Components
-
-**VStreamPro** employs a variety of technologies and tools tailored for YouTube video downloading. Here’s an overview of the key components used in the project:
-
-### Core Technologies
-
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) **Python**: The main programming language for VStreamPro, used for writing the core functionality and logic of the application.
-- ![Tkinter](https://img.shields.io/badge/Tkinter-8.6-blue.svg) **Tkinter**: The GUI toolkit used to build the desktop application's interface.
-
-### Video Downloading
-
-- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) **YouTube**: The primary platform from which videos are downloaded.
-- ![YouTube-DL](https://img.shields.io/badge/youtube--dl-%23FF0000.svg?style=for-the-badge&logo=youtube-dl&logoColor=white) **youtube-dl**: A command-line tool for downloading videos from YouTube and other sites. VStreamPro leverages this tool for its video downloading capabilities.
-
-### File Formats and Handling
-
-- ![MP4](https://img.shields.io/badge/mp4-%2300A3E0.svg?style=for-the-badge&logo=mp4&logoColor=white) **MP4**: A common video format supported by VStreamPro for saving downloaded videos.
-- ![MKV](https://img.shields.io/badge/mkv-%23F8D800.svg?style=for-the-badge&logo=mkv&logoColor=black) **MKV**: Another video format option available for downloads.
-
-### Additional Tools
-
-- ![Pip](https://img.shields.io/badge/pip-%23324F92.svg?style=for-the-badge&logo=pypi&logoColor=white) **Pip**: Python’s package installer used to manage dependencies and packages required for VStreamPro.
-- ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) **Git**: Version control system used for managing the source code and collaborating on the VStreamPro project.
-
-### Operating Systems
-
-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) **Windows**: One of the operating systems supported by VStreamPro.
-- ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) **macOS**: Another operating system where VStreamPro can be used.
-- ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) **Linux**: Supports various distributions like Ubuntu and Fedora for running VStreamPro.
-
-### Development and Deployment
-
-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) **Docker**: Used for creating isolated environments for development and deployment.
-- ![Virtualenv](https://img.shields.io/badge/virtualenv-%234B6A8D.svg?style=for-the-badge&logo=python&logoColor=white) **Virtualenv**: Python tool for creating isolated environments to manage dependencies.
-
-Feel free to explore these technologies and tools to understand how **VStreamPro** leverages them to deliver a powerful video downloading solution.
 
 
 
