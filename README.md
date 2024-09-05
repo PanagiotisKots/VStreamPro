@@ -144,9 +144,8 @@
 - ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) **Linux**: Supports various distributions like Ubuntu and Fedora for running VStreamPro.
 
 ### Development and Deployment
-
+- ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) **Visual Studio Code**: A popular code editor with extensive support for various languages and extensions.
 - ![PyCharm](https://img.shields.io/badge/pycharm-%2338C7C1.svg?style=for-the-badge&logo=pycharm&logoColor=white) **PyCharm**: An IDE for Python development that provides powerful tools and features for coding.
-- ![Python](https://img.shields.io/badge/python-%2338C7C1.svg?style=for-the-badge&logo=python&logoColor=white) **Python**: The programming language used for development.
 
 
 Feel free to explore these technologies and tools to understand how **VStreamPro** leverages them to deliver a powerful video downloading solution.
