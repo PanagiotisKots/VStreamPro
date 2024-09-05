@@ -13,8 +13,6 @@
 
 ![Kotsorgios Panagiotis](https://your-image-url.com/icon.png)  <!-- Replace with your main icon URL -->
 
-Kotsorgios Panagiotis is a dedicated software developer with a passion for crafting tools that enhance user experiences and solve real-world problems. With extensive experience in software development and a background in computer science, Kotsorgios is committed to delivering intuitive and effective solutions.
-
 ### Connect with Me
 
 | Platform    | Link                                           | Icon                                                                                          |
