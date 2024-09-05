@@ -323,7 +323,7 @@ For more information, live demos, and updates, visit our official website:
 | Image 3 | Image 4 |
 |:-------:|:-------:|
 | ![Alt text for Image 1](img/img4) | ![Alt text for Image 2](img/img5) | 
-| *Main UI* | *Description for Image 2* | 
+| *Main UI* | *standard file functinalitites* | 
 
 
 
