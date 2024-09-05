@@ -145,8 +145,9 @@
 
 ### Development and Deployment
 
-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) **Docker**: Used for creating isolated environments for development and deployment.
-- ![Virtualenv](https://img.shields.io/badge/virtualenv-%234B6A8D.svg?style=for-the-badge&logo=python&logoColor=white) **Virtualenv**: Python tool for creating isolated environments to manage dependencies.
+- ![PyCharm](https://img.shields.io/badge/pycharm-%2338C7C1.svg?style=for-the-badge&logo=pycharm&logoColor=white) **PyCharm**: An IDE for Python development that provides powerful tools and features for coding.
+- ![Python](https://img.shields.io/badge/python-%2338C7C1.svg?style=for-the-badge&logo=python&logoColor=white) **Python**: The programming language used for development.
+
 
 Feel free to explore these technologies and tools to understand how **VStreamPro** leverages them to deliver a powerful video downloading solution.
 
