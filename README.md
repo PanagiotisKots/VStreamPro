@@ -231,7 +231,13 @@ To set up **VStreamPro**, follow these instructions:
 To download a video do the following:
 
 
-
+| **Step**  | **Action**                                                            | **Image**                                                                                          |
+|-----------|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| **1.**    | Open your command line interface (CLI).                                | ![CLI Icon](https://img.shields.io/badge/CLI-%23000.svg?style=for-the-badge&logo=terminal&logoColor=white) |
+| **2.**    | Navigate to the directory where `main.py` is located.                 | ![Navigate](https://img.shields.io/badge/Navigate-%2334A853.svg?style=for-the-badge&logo=folder&logoColor=white) |
+| **3.**    | Run the command: `python3 main.py`                                    | ![Command](https://img.shields.io/badge/Run%20Command-%23007BFF.svg?style=for-the-badge&logo=python&logoColor=white) |
+| **4.**    | Enter the URL in the input field when prompted.                       | ![Input](https://img.shields.io/badge/Input%20Field-%23F4B400.svg?style=for-the-badge&logo=input&logoColor=white) |
+| **5.**    | Press the "Download" button to start the process.                     | ![Download](https://img.shields.io/badge/Download-%23FF5722.svg?style=for-the-badge&logo=download&logoColor=white) |
 
 
 
