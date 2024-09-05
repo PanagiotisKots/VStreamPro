@@ -101,13 +101,21 @@
 
 
 
-
 # 🏷️ Version
 
 ## <i>**0.0.0.1**</i>
 
-- **Release Date**: September 5, 2024
+| **Detail**       | **Information**      |
+|------------------|-----------------------|
+| **Version**      | <i>**0.0.0.1**</i>    |
+| **Release Date** | September 5, 2024     |
+| **Features**     | - Initial release with basic functionalities.<br>- Added core features for user interaction. |
+| **Improvements** | - Enhanced user interface.<br>- Fixed initial bugs reported during alpha testing. |
+| **Known Issues** | - Minor UI glitches on certain screen sizes.<br>- Performance optimizations needed for large datasets. |
+| **Future Plans** | - Adding advanced features.<br>- Improving performance and stability.<br>- Expanding compatibility with additional platforms. |
 
+
+<br><br><br>
 
 
 
