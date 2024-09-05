@@ -305,33 +305,6 @@ We welcome contributions to VStreamPro! Your feedback, bug reports, and feature 
 
 
 
-
-
-## Creator
-
-### Kotsorgios Panagiotis
-
-![Kotsorgios Panagiotis](https://your-image-url.com/icon.png)  <!-- Replace with your main icon URL -->
-
-Kotsorgios Panagiotis is a dedicated software developer with a passion for crafting tools that enhance user experiences and solve real-world problems. With extensive experience in software development and a background in computer science, Kotsorgios is committed to delivering intuitive and effective solutions.
-
-### Connect with Me
-
-- **Email**: [your.email@example.com](mailto:your.email@example.com) ![Email](https://img.shields.io/badge/email-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-profile) ![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-- **GitHub**: [GitHub Profile](https://github.com/yourusername) ![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) ![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)
-
-### Main Icon
-
-![Main Icon](https://your-image-url.com/main-icon.png)  <!-- Replace with your main icon URL -->
-
-Feel free to reach out for inquiries, feedback, or collaboration opportunities!
-
-
-
-
-
 ## Visit Our Website
 
 For more information, live demos, and updates, visit our official website:
