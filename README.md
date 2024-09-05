@@ -320,10 +320,10 @@ For more information, live demos, and updates, visit our official website:
 
 
 
-| Image 1 | Image 2 |
+| Image 3 | Image 4 |
 |:-------:|:-------:|
 | ![Alt text for Image 1](img/img4) | ![Alt text for Image 2](img/img5) | 
-| *Description for Image 1* | *Description for Image 2* | 
+| *Main UI* | *Description for Image 2* | 
 
 
 
