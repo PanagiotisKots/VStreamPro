@@ -21,7 +21,7 @@
     - Preliminary error handling and user feedback.
 
 
-
+![Alt text for Image 2](img/img3)
 
 ## Features
 
