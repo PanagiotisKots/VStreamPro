@@ -92,11 +92,8 @@
 </table>
 
 
+**_🌟 Feel free to reach out for inquiries, feedback, or collaboration opportunities! 🌟_**
 
-
-
-
-Feel free to reach out for inquiries, feedback, or collaboration opportunities!
 
 
 
