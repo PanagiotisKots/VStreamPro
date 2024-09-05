@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNSCToMutEaGpfAePVkKT-Phb5uNL49pbMrg&s" alt="Kotsorgios Panagiotis" style="max-width: 500px;"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNSCToMutEaGpfAePVkKT-Phb5uNL49pbMrg&s" alt="Kotsorgios Panagiotis" width = "400px"/>
     </td>
     <td>
       <table>
