@@ -262,7 +262,7 @@ If you encounter issues:
 <br>
 
 
-## Contributing
+## 🤝 Contributing
 
 We welcome contributions to VStreamPro! Your feedback, bug reports, and feature suggestions help us improve the project. Here’s how you can contribute:
 
@@ -272,7 +272,7 @@ We welcome contributions to VStreamPro! Your feedback, bug reports, and feature 
 | **Make Changes**           | Implement your changes and test thoroughly.                               |
 | **Submit a Pull Request**  | Provide a clear description of your changes and submit a pull request for review. |
 
-### Contribution Guidelines
+### 📕 Contribution Guidelines
 
 | **Guideline**              | **Description**                                                          |
 |----------------------------|--------------------------------------------------------------------------|
