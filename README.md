@@ -31,13 +31,7 @@
 
 
 
-![Kotsorgios Panagiotis](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNSCToMutEaGpfAePVkKT-Phb5uNL49pbMrg&s)  <!-- Replace with your main icon URL -->
-
-
-
-
-
-| Platform    | Link                                           | Icon                                                                                          |
+![Kotsorgios Panagiotis](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNSCToMutEaGpfAePVkKT-Phb5uNL49pbMrg&s)  <!-- Replace with your main icon URL -->   | Platform    | Link                                           | Icon                                                                                          |
 |-------------|------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | **Email**   | [your.email@example.com](mailto:your.email@example.com) | ![Email](https://img.shields.io/badge/email-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white) |
 | **LinkedIn**| [LinkedIn Profile](https://www.linkedin.com/in/your-profile) | ![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white) |
@@ -47,6 +41,12 @@
 | **Instagram** | [Instagram Profile](https://www.instagram.com/yourprofile) | ![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white) |
 | **YouTube** | [YouTube Channel](https://www.youtube.com/channel/yourchannel) | ![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white) |
 | **Website** | [Your Website](https://www.yourwebsite.com) | ![Website](https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white) |
+
+
+
+
+
+
 
 
 Feel free to reach out for inquiries, feedback, or collaboration opportunities!
