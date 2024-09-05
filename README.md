@@ -26,15 +26,12 @@
 | **YouTube** | [YouTube Channel](https://www.youtube.com/channel/yourchannel) | ![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white) |
 | **Website** | [Your Website](https://www.yourwebsite.com) | ![Website](https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white) |
 
-### Main Icon
-
-![Main Icon](https://your-image-url.com/main-icon.png)  <!-- Replace with your main icon URL -->
 
 Feel free to reach out for inquiries, feedback, or collaboration opportunities!
 
 
 
-## Version
+# ![Apollo Icon](https://skillicons.dev/icons?i=vue) Version
 
 **0.0.0.1**
 
