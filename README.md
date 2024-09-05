@@ -13,7 +13,7 @@
 
 ![Kotsorgios Panagiotis](https://your-image-url.com/icon.png)  <!-- Replace with your main icon URL -->
 
-### Connect with Me
+### 📲 Connect with Me 
 
 | Platform    | Link                                           | Icon                                                                                          |
 |-------------|------------------------------------------------|-----------------------------------------------------------------------------------------------|
