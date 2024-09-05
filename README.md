@@ -9,8 +9,9 @@
 
 # ![Apollo Icon](https://skillicons.dev/icons?i=apollo) Author 
 
+ <img src="https://img.shields.io/badge/-Kotsorgios%20Panagiotis-%2357a4d0?style=for-the-badge&logoColor=white" alt="Kotsorgios Panagiotis Blue" width="200"/>
+  <img src="https://img.shields.io/badge/-Kotsorgios%20Panagiotis-%23333?style=for-the-badge&logoColor=white" alt="Kotsorgios Panagiotis Gray" width="200"/>
 
-### ![Kotsorgios Panagiotis](https://img.shields.io/badge/-Kotsorgios%20Panagiotis-%23333)
 
 
 - **Background**: Kotsorgios Panagiotis is a software developer with a keen interest in creating tools that enhance user experiences and solve real-world problems. With a strong background in computer science and extensive experience in software development, Kotsorgios is dedicated to building intuitive and efficient solutions.
