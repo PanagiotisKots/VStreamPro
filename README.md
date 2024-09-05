@@ -180,6 +180,8 @@ To set up **VStreamPro**, follow these instructions:
 | **Run the Application**  | Start the application with:<br>```bash<br>python vstreampro.py<br>```                                       |
 
 
+<br><br><br>
+
 
 
 ## 🚀 Usage
@@ -187,17 +189,7 @@ To set up **VStreamPro**, follow these instructions:
 To download a video do the following:
 
 
-Examples
 
-bash
-
-python vstreampro.py https://www.youtube.com/watch?v=dQw4w9WgXcQ
-python vstreampro.py https://www.youtube.com/watch?v=dQw4w9WgXcQ /path/to/save/
-
-bash
-
-
-This Markdown format clearly explains the usage of the tool, including the command syntax and examples.
 
 
 
