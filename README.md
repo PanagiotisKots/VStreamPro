@@ -12,8 +12,36 @@
 ## **<i>KOTSORGIOS PANAGIOTIS</i>**
 
 
-- **Background**: Kotsorgios Panagiotis is a software developer with a keen interest in creating tools that enhance user experiences and solve real-world problems. With a strong background in computer science and extensive experience in software development, Kotsorgios is dedicated to building intuitive and efficient solutions.
-- **Contact**: For any inquiries, feedback, or collaboration opportunities, you can reach Kotsorgios via email at [your.email@example.com](mailto:your.email@example.com). Connect with Kotsorgios on [LinkedIn](https://www.linkedin.com/in/your-profile) for professional updates and networking.
+
+
+## Creator
+
+### Kotsorgios Panagiotis
+
+![Kotsorgios Panagiotis](https://your-image-url.com/icon.png)  <!-- Replace with your main icon URL -->
+
+Kotsorgios Panagiotis is a dedicated software developer with a passion for crafting tools that enhance user experiences and solve real-world problems. With extensive experience in software development and a background in computer science, Kotsorgios is committed to delivering intuitive and effective solutions.
+
+### Connect with Me
+
+| Platform    | Link                                           | Icon                                                                                          |
+|-------------|------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| **Email**   | [your.email@example.com](mailto:your.email@example.com) | ![Email](https://img.shields.io/badge/email-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white) |
+| **LinkedIn**| [LinkedIn Profile](https://www.linkedin.com/in/your-profile) | ![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white) |
+| **GitHub**  | [GitHub Profile](https://github.com/yourusername) | ![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white) |
+| **Twitter** | [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) | ![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white) |
+| **Facebook**| [Facebook Profile](https://www.facebook.com/yourprofile) | ![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white) |
+| **Instagram** | [Instagram Profile](https://www.instagram.com/yourprofile) | ![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white) |
+| **YouTube** | [YouTube Channel](https://www.youtube.com/channel/yourchannel) | ![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white) |
+| **Website** | [Your Website](https://www.yourwebsite.com) | ![Website](https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white) |
+
+### Main Icon
+
+![Main Icon](https://your-image-url.com/main-icon.png)  <!-- Replace with your main icon URL -->
+
+Feel free to reach out for inquiries, feedback, or collaboration opportunities!
+
+
 
 ## Version
 
@@ -357,35 +385,6 @@ Kotsorgios Panagiotis is a dedicated software developer with a passion for craft
 
 Feel free to reach out for inquiries, feedback, or collaboration opportunities!
 
-
-
-
-## Creator
-
-### Kotsorgios Panagiotis
-
-![Kotsorgios Panagiotis](https://your-image-url.com/icon.png)  <!-- Replace with your main icon URL -->
-
-Kotsorgios Panagiotis is a dedicated software developer with a passion for crafting tools that enhance user experiences and solve real-world problems. With extensive experience in software development and a background in computer science, Kotsorgios is committed to delivering intuitive and effective solutions.
-
-### Connect with Me
-
-| Platform    | Link                                           | Icon                                                                                          |
-|-------------|------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| **Email**   | [your.email@example.com](mailto:your.email@example.com) | ![Email](https://img.shields.io/badge/email-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white) |
-| **LinkedIn**| [LinkedIn Profile](https://www.linkedin.com/in/your-profile) | ![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white) |
-| **GitHub**  | [GitHub Profile](https://github.com/yourusername) | ![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white) |
-| **Twitter** | [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) | ![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white) |
-| **Facebook**| [Facebook Profile](https://www.facebook.com/yourprofile) | ![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white) |
-| **Instagram** | [Instagram Profile](https://www.instagram.com/yourprofile) | ![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white) |
-| **YouTube** | [YouTube Channel](https://www.youtube.com/channel/yourchannel) | ![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white) |
-| **Website** | [Your Website](https://www.yourwebsite.com) | ![Website](https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white) |
-
-### Main Icon
-
-![Main Icon](https://your-image-url.com/main-icon.png)  <!-- Replace with your main icon URL -->
-
-Feel free to reach out for inquiries, feedback, or collaboration opportunities!
 
 
 
