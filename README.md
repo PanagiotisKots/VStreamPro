@@ -1,6 +1,6 @@
 <div align = "center">
 # VStreamPro 
-</div>div>
+</div>
 
 ![Alt text for Image 2](img/file.png)
 
