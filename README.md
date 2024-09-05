@@ -10,7 +10,8 @@
 # ![Apollo Icon](https://skillicons.dev/icons?i=apollo) Author 
 
 
-**Kotsorgios Panagiotis**
+![Kotsorgios Panagiotis](https://img.shields.io/badge/-Kotsorgios%20Panagiotis-%23333)
+
 
 - **Background**: Kotsorgios Panagiotis is a software developer with a keen interest in creating tools that enhance user experiences and solve real-world problems. With a strong background in computer science and extensive experience in software development, Kotsorgios is dedicated to building intuitive and efficient solutions.
 - **Contact**: For any inquiries, feedback, or collaboration opportunities, you can reach Kotsorgios via email at [your.email@example.com](mailto:your.email@example.com). Connect with Kotsorgios on [LinkedIn](https://www.linkedin.com/in/your-profile) for professional updates and networking.
