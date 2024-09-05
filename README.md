@@ -256,7 +256,7 @@ If you encounter issues:
 |---------------------|-------------------------------------------------|---------------------------------------------------|
 | **Invalid URL**     | The provided URL is not recognized.            | Check the URL format and try again.              |
 | **Permission Denied** | Lack of write permissions in the output directory. | Change permissions or select a different directory. |
-| **Dependency Missing** | Required Python package is not installed.     | Re-run `pip install -r requirements.txt`.         |
+| **Dependency Missing** | Required Python library is not installed.     | pip install <library_name>.         |
 
 
 <br>
