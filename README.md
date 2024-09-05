@@ -51,7 +51,7 @@ Feel free to reach out for inquiries, feedback, or collaboration opportunities!
 
 
 
-## Features
+## 💡 Features
 
 | **Feature**                | **Description**                                               |
 |----------------------------|---------------------------------------------------------------|
@@ -70,7 +70,7 @@ Feel free to reach out for inquiries, feedback, or collaboration opportunities!
 
 
 
-## GUI Overview
+## 🤖 GUI Overview
 
 **VStreamPro** features a clean and intuitive graphical user interface (GUI). Here's a detailed look at the main components:
 
@@ -99,7 +99,7 @@ Feel free to reach out for inquiries, feedback, or collaboration opportunities!
 
 
 
-## Installation
+## 🛠️ Installation
 
 To set up **VStreamPro**, follow these instructions:
 
@@ -112,15 +112,10 @@ To set up **VStreamPro**, follow these instructions:
 
 
 
-## Usage
+## 🚀 Usage
 
-To download a video, use the following command:
+To download a video do the following:
 
-
-python vstreampro.py <YouTube-URL> [output-path]
-
-    Replace <YouTube-URL> with the URL of the video you wish to download.
-    Optional: Specify an output-path to define where the video will be saved. If not provided, the default path is the current directory.
 
 Examples
 
@@ -143,7 +138,7 @@ This Markdown format clearly explains the usage of the tool, including the comma
 
 
 
-## Troubleshooting
+## 👾 Troubleshooting
 
 If you encounter issues:
 
@@ -163,7 +158,7 @@ If you encounter issues:
 
 
 
-## Contributing
+## 🤝 Contributing
 
 Contributions to **VStreamPro** are welcome! If you have suggestions, find bugs, or want to add features, please follow these steps:
 
@@ -173,42 +168,11 @@ Contributions to **VStreamPro** are welcome! If you have suggestions, find bugs,
 
 For detailed contribution guidelines, refer to the `CONTRIBUTING.md` file.
 
-## License
+## 📝 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-## Contact
 
-For additional information or support, reach out to Kotsorgios Panagiotis at [your.email@example.com](mailto:your.email@example.com).
-
-## GUI Layout
-
-### Main Window Components
-
-| **Component**           | **Description**                               |
-|-------------------------|-----------------------------------------------|
-| **Primary URL Entry**   | Text field for entering the main video URL.   |
-| **Additional URLs**     | Multi-line text area for entering extra URLs. |
-| **Directory Entry**     | Field for displaying the selected download directory. |
-| **Buttons**             | Various action buttons like "Download Video," "Download Audio," etc. |
-| **Text Display**        | Area on the left for displaying large text or instructions. |
-| **Progress Bar**        | Bottom bar indicating the download progress and percentage. |
-| **Status Label**        | Displays current application status.         |
-
-## Theming and Customization
-
-- **Light Theme**: Features a light color scheme with a white background and dark text.
-- **Dark Theme**: Offers a dark color scheme with a dark background and light text.
-- **Custom Theme**: Allows users to define their own color preferences.
-- **Reset Theme**: Reverts to default settings.
-
-## Preferences and Settings
-
-- **Configure Settings**: Adjust application preferences.
-- **Set Language**: Choose the application language.
-- **Manage Plugins**: Install or remove additional plugins.
-
-Feel free to modify any sections or add more details based on your project's needs!
 
 
 
