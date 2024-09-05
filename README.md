@@ -7,16 +7,9 @@
 
 
 
-# ![Apollo Icon](https://skillicons.dev/icons?i=apollo) Author 
+# ![Apollo Icon](https://skillicons.dev/icons?i=apollo) Creator 
 
 ## **<i>KOTSORGIOS PANAGIOTIS</i>**
-
-
-
-
-## Creator
-
-### Kotsorgios Panagiotis
 
 ![Kotsorgios Panagiotis](https://your-image-url.com/icon.png)  <!-- Replace with your main icon URL -->
 
