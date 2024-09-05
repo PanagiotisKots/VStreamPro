@@ -48,37 +48,32 @@
         </tr>
         <tr>
           <td><strong>Email</strong></td>
-          <td><a href="mailto:your.email@example.com">your.email@example.com</a></td>
+          <td><a href="mailto:pkotsorgios654@gmail.com">pkotsorgios654@gmail.com</a></td>
           <td><img src="https://img.shields.io/badge/email-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></td>
         </tr>
         <tr>
           <td><strong>LinkedIn</strong></td>
-          <td><a href="https://www.linkedin.com/in/your-profile">LinkedIn Profile</a></td>
+          <td><a href="https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/">LinkedIn Profile</a></td>
           <td><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></td>
         </tr>
         <tr>
           <td><strong>GitHub</strong></td>
-          <td><a href="https://github.com/yourusername">GitHub Profile</a></td>
+          <td><a href="https://github.com/PanagiotisKots">GitHub Profile</a></td>
           <td><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></td>
         </tr>
         <tr>
           <td><strong>Twitter</strong></td>
-          <td><a href="https://twitter.com/YourTwitterHandle">@YourTwitterHandle</a></td>
+          <td><a href="https://x.com/panosk750807">Twitter Profile</a></td>
           <td><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></td>
         </tr>
         <tr>
-          <td><strong>Facebook</strong></td>
-          <td><a href="https://www.facebook.com/yourprofile">Facebook Profile</a></td>
-          <td><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></td>
-        </tr>
-        <tr>
           <td><strong>Instagram</strong></td>
-          <td><a href="https://www.instagram.com/yourprofile">Instagram Profile</a></td>
+          <td><a href="https://www.instagram.com/panagiotis_ko_/">Instagram Profile</a></td>
           <td><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></td>
         </tr>
         <tr>
           <td><strong>YouTube</strong></td>
-          <td><a href="https://www.youtube.com/channel/yourchannel">YouTube Channel</a></td>
+          <td><a href="https://www.youtube.com/">YouTube Channel</a></td>
           <td><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></td>
         </tr>
         <tr>
