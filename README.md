@@ -260,13 +260,7 @@ We welcome contributions to VStreamPro! Your feedback, bug reports, and feature 
 
 
 
-### Icons
-![GitHub](https://skillicons.dev/icons?i=github)
-![Code](https://skillicons.dev/icons?i=code)
-![Testing](https://skillicons.dev/icons?i=testing)
-![Issues](https://skillicons.dev/icons?i=issues)
-![Pull Requests](https://skillicons.dev/icons?i=pullrequest)
-![License](https://skillicons.dev/icons?i=license)
+
 
 
 
