@@ -21,10 +21,12 @@
 ![Alt text for Image 2](img/img3)
 
 
-
+<div align = "center">
 
   
 # ![Apollo Icon](https://skillicons.dev/icons?i=apollo) Creator 
+
+</div>
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**<i>KOTSORGIOS PANAGIOTIS</i>**    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **<i>CONNECT WITH ME</i>** 
 
