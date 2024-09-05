@@ -25,7 +25,7 @@
 
 <br>
   
-# 👨🏻‍💻 Creator 
+# Creator 
 
 </div>
 
