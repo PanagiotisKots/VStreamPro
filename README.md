@@ -9,7 +9,7 @@
 
 # ![Apollo Icon](https://skillicons.dev/icons?i=apollo) Author 
 
-## **KOTSORGIOS PANAGIOTIS**
+## **<i>KOTSORGIOS PANAGIOTIS</i>**
 
 
 - **Background**: Kotsorgios Panagiotis is a software developer with a keen interest in creating tools that enhance user experiences and solve real-world problems. With a strong background in computer science and extensive experience in software development, Kotsorgios is dedicated to building intuitive and efficient solutions.
