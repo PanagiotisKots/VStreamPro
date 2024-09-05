@@ -428,7 +428,7 @@ Explore more and keep up with the latest in VStreamPro by visiting our [official
 
 | Image 1 | Image 2 |
 |:-------:|:-------:|
-| ![Alt text for Image 1](img/img1) | ![Alt text for Image 2](img/img2) | 
+| ![Alt text for Image 1](img/img4) | ![Alt text for Image 2](img/img5) | 
 | *Description for Image 1* | *Description for Image 2* | 
 
 
