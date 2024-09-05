@@ -6,7 +6,7 @@
 
 </div>
 <div align = "center">
-Advanced video downloading 
+**Advanced video downloading**
 
   
 ![Alt text for Image 2](img/file.png)
