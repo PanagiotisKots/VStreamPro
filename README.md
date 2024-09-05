@@ -24,7 +24,7 @@
 <div align = "center">
 
   
-# ![Apollo Icon](https://skillicons.dev/icons?i=apollo) Creator 
+# 👨🏻‍💻 Creator 
 
 </div>
 
