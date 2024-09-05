@@ -21,7 +21,7 @@
 ![Alt text for Image 2](img/img3)
 
 
-<div align = "center">
+
 
   
 # ![Apollo Icon](https://skillicons.dev/icons?i=apollo) Creator 
@@ -34,7 +34,7 @@
 ![Kotsorgios Panagiotis](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNSCToMutEaGpfAePVkKT-Phb5uNL49pbMrg&s)  <!-- Replace with your main icon URL -->
 
 
-</div>
+
 ### 📲 Connect with Me 
 
 | Platform    | Link                                           | Icon                                                                                          |
