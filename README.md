@@ -28,11 +28,13 @@
 
 ### **<i>KOTSORGIOS PANAGIOTIS</i>**
 
-</div>
+
 
 
 ![Kotsorgios Panagiotis](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNSCToMutEaGpfAePVkKT-Phb5uNL49pbMrg&s)  <!-- Replace with your main icon URL -->
 
+
+</div>
 ### 📲 Connect with Me 
 
 | Platform    | Link                                           | Icon                                                                                          |
