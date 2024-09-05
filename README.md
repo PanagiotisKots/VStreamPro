@@ -26,7 +26,7 @@
   
 # ![Apollo Icon](https://skillicons.dev/icons?i=apollo) Creator 
 
-### **<i>KOTSORGIOS PANAGIOTIS</i>**
+### **<i>KOTSORGIOS PANAGIOTIS</i>**   ### 📲 Connect with Me 
 
 
 
@@ -35,7 +35,7 @@
 
 
 
-### 📲 Connect with Me 
+
 
 | Platform    | Link                                           | Icon                                                                                          |
 |-------------|------------------------------------------------|-----------------------------------------------------------------------------------------------|
