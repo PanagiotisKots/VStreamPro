@@ -26,7 +26,7 @@
   
 # ![Apollo Icon](https://skillicons.dev/icons?i=apollo) Creator 
 
-### **<i>KOTSORGIOS PANAGIOTIS</i>**    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📲 Connect with Me 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**<i>KOTSORGIOS PANAGIOTIS</i>**    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📲 Connect with Me 
 
 
 
