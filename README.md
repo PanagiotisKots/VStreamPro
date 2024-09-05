@@ -213,7 +213,7 @@ To set up **VStreamPro**, follow these instructions:
 |---------------------------|---------------------------------------------------------------------------------------------------------------|
 | **Clone the Repository**  | ```https://github.com/PanagiotisKots/VStreamPro.git```<br>Change to the directory:<br>```cd VStreamPro``` |
 | **Install Dependencies**  | Ensure you have Python 3.6 or higher installed. Then, install the required libraries:<br>```pip install <library-names>``` |
-| **Run the Application**   | Start the application with:<br>```python downloader.py```                                                    |
+| **Run the Application**   | Start the application with:<br>```python3 downloader.py```                                                    |
 
 
 
