@@ -2,6 +2,11 @@
 
 **VStreamPro** is a powerful and user-friendly tool for downloading videos from YouTube. Designed for both casual users and developers, it offers a streamlined interface and robust features to help you effortlessly save your favorite videos.
 
+
+![Alt text for Image 2](img/img3)
+
+
+
 ## Author
 
 **Kotsorgios Panagiotis**
@@ -21,7 +26,6 @@
     - Preliminary error handling and user feedback.
 
 
-![Alt text for Image 2](img/img3)
 
 ## Features
 
