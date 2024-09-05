@@ -31,18 +31,62 @@
 
 
 
-![Kotsorgios Panagiotis](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNSCToMutEaGpfAePVkKT-Phb5uNL49pbMrg&s)  <!-- Replace with your main icon URL -->   | Platform    | Link                                           | Icon                                                                                          |
-|-------------|------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| **Email**   | [your.email@example.com](mailto:your.email@example.com) | ![Email](https://img.shields.io/badge/email-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white) |
-| **LinkedIn**| [LinkedIn Profile](https://www.linkedin.com/in/your-profile) | ![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white) |
-| **GitHub**  | [GitHub Profile](https://github.com/yourusername) | ![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white) |
-| **Twitter** | [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) | ![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white) |
-| **Facebook**| [Facebook Profile](https://www.facebook.com/yourprofile) | ![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white) |
-| **Instagram** | [Instagram Profile](https://www.instagram.com/yourprofile) | ![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white) |
-| **YouTube** | [YouTube Channel](https://www.youtube.com/channel/yourchannel) | ![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white) |
-| **Website** | [Your Website](https://www.yourwebsite.com) | ![Website](https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white) |
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNSCToMutEaGpfAePVkKT-Phb5uNL49pbMrg&s" alt="Kotsorgios Panagiotis" style="max-width: 200px;"/>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <th>Platform</th>
+          <th>Link</th>
+          <th>Icon</th>
+        </tr>
+        <tr>
+          <td><strong>Email</strong></td>
+          <td><a href="mailto:your.email@example.com">your.email@example.com</a></td>
+          <td><img src="https://img.shields.io/badge/email-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></td>
+        </tr>
+        <tr>
+          <td><strong>LinkedIn</strong></td>
+          <td><a href="https://www.linkedin.com/in/your-profile">LinkedIn Profile</a></td>
+          <td><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></td>
+        </tr>
+        <tr>
+          <td><strong>GitHub</strong></td>
+          <td><a href="https://github.com/yourusername">GitHub Profile</a></td>
+          <td><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></td>
+        </tr>
+        <tr>
+          <td><strong>Twitter</strong></td>
+          <td><a href="https://twitter.com/YourTwitterHandle">@YourTwitterHandle</a></td>
+          <td><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></td>
+        </tr>
+        <tr>
+          <td><strong>Facebook</strong></td>
+          <td><a href="https://www.facebook.com/yourprofile">Facebook Profile</a></td>
+          <td><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></td>
+        </tr>
+        <tr>
+          <td><strong>Instagram</strong></td>
+          <td><a href="https://www.instagram.com/yourprofile">Instagram Profile</a></td>
+          <td><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></td>
+        </tr>
+        <tr>
+          <td><strong>YouTube</strong></td>
+          <td><a href="https://www.youtube.com/channel/yourchannel">YouTube Channel</a></td>
+          <td><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></td>
+        </tr>
+        <tr>
+          <td><strong>Website</strong></td>
+          <td><a href="https://www.yourwebsite.com">Your Website</a></td>
+          <td><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website"/></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 
 
