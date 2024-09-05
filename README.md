@@ -7,7 +7,7 @@
 
 
 
-## Author ![Author](https://img.shields.io/badge/author-Jane%20Doe-blue)
+## Author 
 
 
 **Kotsorgios Panagiotis**
