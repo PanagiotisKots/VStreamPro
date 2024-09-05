@@ -315,7 +315,7 @@ For more information, live demos, and updates, visit our official website:
 | Image 1 | Image 2 |
 |:-------:|:-------:|
 | ![Alt text for Image 1](img/img1) | ![Alt text for Image 2](img/img2) | 
-| *Theme changing functionalities* | *Description for Image 2* | 
+| *Theme changing functionalities* | *variety of options* | 
 
 
 
