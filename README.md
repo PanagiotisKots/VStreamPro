@@ -23,7 +23,7 @@
 
 <div align = "center">
 
-<br><br>
+<br>
   
 # 👨🏻‍💻 Creator 
 
@@ -97,7 +97,7 @@
 
 
 
-<br><br>
+<br>
 
 
 
@@ -115,7 +115,7 @@
 | **Future Plans** | - Adding advanced features.<br>- Improving performance and stability.<br>- Expanding compatibility with additional platforms. |
 
 
-<br><br><br>
+<br>
 
 
 ## Technologies and Components
@@ -156,7 +156,7 @@
 Feel free to explore these technologies and tools to understand how **VStreamPro** leverages them to deliver a powerful video downloading solution.
 
 
-<br><br>
+<br>
 
 ## 💡 Features
 
@@ -173,8 +173,7 @@ Feel free to explore these technologies and tools to understand how **VStreamPro
 
 
 
-
-<br><br>
+<br>
 
 
 
@@ -206,7 +205,7 @@ Feel free to explore these technologies and tools to understand how **VStreamPro
 
 
 
-<br><br><br>
+<br>
 
 
 
@@ -223,7 +222,7 @@ To set up **VStreamPro**, follow these instructions:
 
 
 
-<br><br>
+<br>
 
 
 
@@ -243,8 +242,7 @@ To download a video do the following:
 
 
 
-
-<br><br>
+<br>
 
 
 
@@ -266,7 +264,7 @@ If you encounter issues:
 | **Dependency Missing** | Required Python package is not installed.     | Re-run `pip install -r requirements.txt`.         |
 
 
-<br><br>
+<br>
 
 
 ## Contributing
@@ -297,8 +295,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 
 
-
-<br><br>
+<br>
 
 
 ## Technologies and Tools
@@ -319,7 +316,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 
 
-<br><br>
+<br>
 
 
 
@@ -342,7 +339,7 @@ Explore more and keep up with the latest in VStreamPro by visiting our [official
 
 
 
-<br><br>
+<br>
 
 ## Image Gallery
 
