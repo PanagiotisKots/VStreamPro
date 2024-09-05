@@ -195,7 +195,7 @@ To download a video do the following:
 
 
 
-
+<br><br><br>
 
 
 
@@ -217,25 +217,34 @@ If you encounter issues:
 | **Dependency Missing** | Required Python package is not installed.     | Re-run `pip install -r requirements.txt`.         |
 
 
+<br><br><br>
 
 
+## Contributing
 
-## 🤝 Contributing
+We welcome contributions to VStreamPro! Your feedback, bug reports, and feature suggestions help us improve the project. Here’s how you can contribute:
 
-Contributions to **VStreamPro** are welcome! If you have suggestions, find bugs, or want to add features, please follow these steps:
+| **Step**                   | **Description**                                                          |
+|----------------------------|--------------------------------------------------------------------------|
+| **Fork the Repository**    | Create a personal copy of the repository on GitHub.                       |
+| **Make Changes**           | Implement your changes and test thoroughly.                               |
+| **Submit a Pull Request**  | Provide a clear description of your changes and submit a pull request for review. |
 
-1. **Fork the Repository**: Create a personal copy of the repository on GitHub.
-2. **Make Changes**: Implement your changes and test thoroughly.
-3. **Submit a Pull Request**: Provide a clear description of your changes and submit a pull request for review.
+### Contribution Guidelines
 
-For detailed contribution guidelines, refer to the `CONTRIBUTING.md` file.
+| **Guideline**              | **Description**                                                          |
+|----------------------------|--------------------------------------------------------------------------|
+| **Follow the Coding Standards** | Ensure your code adheres to the project's coding standards.              |
+| **Write Clear Commit Messages** | Provide meaningful commit messages that explain the changes made.       |
+| **Test Your Changes**      | Thoroughly test your modifications before submitting a pull request.     |
+| **Respect the Project’s License** | Make sure your contributions comply with the project's licensing terms. |
 
 ## 📝 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 
-
+<br><br><br>
 
 
 ## Technologies and Components
@@ -277,7 +286,7 @@ Feel free to explore these technologies and tools to understand how **VStreamPro
 
 
 
-
+<br><br><br>
 
 
 ## Technologies and Tools
@@ -297,41 +306,7 @@ Feel free to explore these technologies and tools to understand how **VStreamPro
 
 
 
-
-
-
-
-## Contributing
-
-We welcome contributions to VStreamPro! Your feedback, bug reports, and feature suggestions help us improve the project. Here’s how you can contribute:
-
-| **Step**                   | **Description**                                                          |
-|----------------------------|--------------------------------------------------------------------------|
-| **Fork the Repository**    | Create a personal copy of the repository on GitHub.                       |
-| **Make Changes**           | Implement your changes and test thoroughly.                               |
-| **Submit a Pull Request**  | Provide a clear description of your changes and submit a pull request for review. |
-
-### Contribution Guidelines
-
-| **Guideline**              | **Description**                                                          |
-|----------------------------|--------------------------------------------------------------------------|
-| **Follow the Coding Standards** | Ensure your code adheres to the project's coding standards.              |
-| **Write Clear Commit Messages** | Provide meaningful commit messages that explain the changes made.       |
-| **Test Your Changes**      | Thoroughly test your modifications before submitting a pull request.     |
-| **Respect the Project’s License** | Make sure your contributions comply with the project's licensing terms. |
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br><br><br>
 
 
 
@@ -353,7 +328,7 @@ For more information, live demos, and updates, visit our official website:
 Explore more and keep up with the latest in VStreamPro by visiting our [official website](https://www.yourwebsite.com)!
 
 
-
+<br><br><br>
 
 
 ## Image Gallery
