@@ -292,7 +292,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 
 
-## Visit Our Website
+## 🌐 Visit Our Website
 
 For more information, live demos, and updates, visit our official website:
 
@@ -305,8 +305,6 @@ For more information, live demos, and updates, visit our official website:
 - **Latest News**: Stay updated with the latest developments and feature releases.
 - **Community Forum**: Join discussions, share your experiences, and get support from other users.
 - **Contact Us**: Reach out for support, feedback, or collaboration opportunities.
-
-Explore more and keep up with the latest in VStreamPro by visiting our [official website](https://www.yourwebsite.com)!
 
 
 
