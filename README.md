@@ -295,6 +295,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Technologies and Tools
 
+
 ![Python](https://skillicons.dev/icons?i=python)
 ![Tkinter](https://skillicons.dev/icons?i=tkinter)
 ![YouTube](https://skillicons.dev/icons?i=youtube)
@@ -306,8 +307,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ![Windows](https://skillicons.dev/icons?i=windows)
 ![macOS](https://skillicons.dev/icons?i=macos)
 ![Linux](https://skillicons.dev/icons?i=linux)
-
-
 
 
 
