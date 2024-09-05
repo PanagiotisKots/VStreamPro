@@ -101,7 +101,8 @@
 
 
 
-# ![Apollo Icon](https://skillicons.dev/icons?i=vue) Version
+
+# 🏷️ Version
 
 ## <i>**0.0.0.1**</i>
 
