@@ -9,11 +9,7 @@
 
 # ![Apollo Icon](https://skillicons.dev/icons?i=apollo) Author 
 
- <svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
-    <rect width="400" height="100" fill="#ffffff"/>
-    <text x="10" y="50" font-family="Arial" font-size="40" fill="#333333" font-weight="bold">Kotsorgios</text>
-    <text x="10" y="80" font-family="Arial" font-size="40" fill="#1E90FF" font-weight="bold">Panagiotis</text>
-  </svg>
+## ** KOTSORGIOS PANAGIOTIS **
 
 
 - **Background**: Kotsorgios Panagiotis is a software developer with a keen interest in creating tools that enhance user experiences and solve real-world problems. With a strong background in computer science and extensive experience in software development, Kotsorgios is dedicated to building intuitive and efficient solutions.
